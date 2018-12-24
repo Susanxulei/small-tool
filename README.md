@@ -30,6 +30,4 @@ $ git clone https://github.com/njucjc/small-tool.git
 ### (3) Build this project.
 ### (4) Start to run it with **IDEA**.
 
-## 3. Reference
-### (1) Xu, Chang, Shing-Chi Cheung, and Wing-Kwong Chan. "Incremental consistency checking for pervasive context." Proceedings of the 28th international conference on Software engineering. ACM, 2006.
-### (2) Xu, Chang, et al. "Towards context consistency by concurrent checking for internetware applications." Science China Information Sciences 56.8 (2013): 1-20.
+## 3. 完整数据集可以从[这里](https://pan.baidu.com/s/1V4ztPP_m5luY3f6ujD0T7Q)下载
